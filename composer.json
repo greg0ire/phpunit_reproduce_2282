@@ -17,7 +17,7 @@
         }
     ],
     "require-dev": {
-        "matthiasnoback/symfony-dependency-injection-test": "^0.1 || ^1.0"
+        "phpunit/phpunit": "^4.0 || 5.0"
     },
     "autoload": {
         "psr-4": { "Sonata\\AdminBundle\\": "" },
